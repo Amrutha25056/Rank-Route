@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RankRoute
 
 RankRoute is a Flask-based KCET college predictor with machine learning predictions, cutoff analytics, personalized recommendations, mock tests, and a static frontend served by the same backend.
